@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "paul_romans"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    toc: true
+    toc-location: left
+    theme: superhero
+    fontsize: 1.2em
+    linestretch: 1.8
+    css: styles.css
+
+listing:
+  contents: posts/*.qmd
+  sort:
+    - "title"
+    - "date"
+
+editor: visual
