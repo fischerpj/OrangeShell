@@ -1,0 +1,16 @@
+---
+title: romans_3
+author: 'paul'
+date: '2024-06-24'
+categories: [SG21]
+tags: [rom]
+params:
+  refs: rom3
+  refs_after: Rom1:1
+  version: SG21
+---
+
+```{r, BCV_code, echo=FALSE}
+XMINPI::bcv_list_(params$refs, params$version)
+```
+
