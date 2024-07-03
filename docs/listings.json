@@ -2,143 +2,377 @@
   {
     "listing": "/about.html",
     "items": [
-      "/posts/gal01.html",
-      "/posts/gal02.html",
-      "/posts/gal03.html",
-      "/posts/gal04.html",
-      "/posts/gal05.html",
-      "/posts/gal06.html",
-      "/posts/rom01.html",
-      "/posts/rom02.html",
-      "/posts/rom03.html",
-      "/posts/rom04.html",
-      "/posts/rom05.html",
-      "/posts/rom06.html",
-      "/posts/rom07.html",
-      "/posts/rom08.html",
-      "/posts/rom09.html",
-      "/posts/rom10.html",
-      "/posts/rom11.html",
-      "/posts/rom12.html",
-      "/posts/rom13.html",
-      "/posts/rom14.html",
-      "/posts/rom15.html",
-      "/posts/rom16.html"
+      "/posts/proto_paul/1co01.html",
+      "/posts/proto_paul/1co02.html",
+      "/posts/proto_paul/1co03.html",
+      "/posts/proto_paul/1co04.html",
+      "/posts/proto_paul/1co05.html",
+      "/posts/proto_paul/1co06.html",
+      "/posts/proto_paul/1co07.html",
+      "/posts/proto_paul/1co08.html",
+      "/posts/proto_paul/1co09.html",
+      "/posts/proto_paul/1co10.html",
+      "/posts/proto_paul/1co11.html",
+      "/posts/proto_paul/1co12.html",
+      "/posts/proto_paul/1co13.html",
+      "/posts/proto_paul/1co14.html",
+      "/posts/proto_paul/1co15.html",
+      "/posts/proto_paul/1co16.html",
+      "/posts/proto_paul/1the01.html",
+      "/posts/proto_paul/1the02.html",
+      "/posts/proto_paul/1the03.html",
+      "/posts/proto_paul/1the04.html",
+      "/posts/proto_paul/1the05.html",
+      "/posts/proto_paul/2co01.html",
+      "/posts/proto_paul/2co02.html",
+      "/posts/proto_paul/2co03.html",
+      "/posts/proto_paul/2co04.html",
+      "/posts/proto_paul/2co05.html",
+      "/posts/proto_paul/2co06.html",
+      "/posts/proto_paul/2co07.html",
+      "/posts/proto_paul/2co08.html",
+      "/posts/proto_paul/2co09.html",
+      "/posts/proto_paul/2co10.html",
+      "/posts/proto_paul/2co11.html",
+      "/posts/proto_paul/2co12.html",
+      "/posts/proto_paul/2co13.html",
+      "/posts/proto_paul/gal01.html",
+      "/posts/proto_paul/gal02.html",
+      "/posts/proto_paul/gal03.html",
+      "/posts/proto_paul/gal04.html",
+      "/posts/proto_paul/gal05.html",
+      "/posts/proto_paul/gal06.html",
+      "/posts/proto_paul/phm01.html",
+      "/posts/proto_paul/phil01.html",
+      "/posts/proto_paul/phil02.html",
+      "/posts/proto_paul/phil03.html",
+      "/posts/proto_paul/phil04.html",
+      "/posts/proto_paul/rom01.html",
+      "/posts/proto_paul/rom02.html",
+      "/posts/proto_paul/rom03.html",
+      "/posts/proto_paul/rom04.html",
+      "/posts/proto_paul/rom05.html",
+      "/posts/proto_paul/rom06.html",
+      "/posts/proto_paul/rom07.html",
+      "/posts/proto_paul/rom08.html",
+      "/posts/proto_paul/rom09.html",
+      "/posts/proto_paul/rom10.html",
+      "/posts/proto_paul/rom11.html",
+      "/posts/proto_paul/rom12.html",
+      "/posts/proto_paul/rom13.html",
+      "/posts/proto_paul/rom14.html",
+      "/posts/proto_paul/rom15.html",
+      "/posts/proto_paul/rom16.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/posts/gal01.html",
-      "/posts/gal02.html",
-      "/posts/gal03.html",
-      "/posts/gal04.html",
-      "/posts/gal05.html",
-      "/posts/gal06.html",
-      "/posts/rom01.html",
-      "/posts/rom02.html",
-      "/posts/rom03.html",
-      "/posts/rom04.html",
-      "/posts/rom05.html",
-      "/posts/rom06.html",
-      "/posts/rom07.html",
-      "/posts/rom08.html",
-      "/posts/rom09.html",
-      "/posts/rom10.html",
-      "/posts/rom11.html",
-      "/posts/rom12.html",
-      "/posts/rom13.html",
-      "/posts/rom14.html",
-      "/posts/rom15.html",
-      "/posts/rom16.html"
+      "/posts/proto_paul/1co01.html",
+      "/posts/proto_paul/1co02.html",
+      "/posts/proto_paul/1co03.html",
+      "/posts/proto_paul/1co04.html",
+      "/posts/proto_paul/1co05.html",
+      "/posts/proto_paul/1co06.html",
+      "/posts/proto_paul/1co07.html",
+      "/posts/proto_paul/1co08.html",
+      "/posts/proto_paul/1co09.html",
+      "/posts/proto_paul/1co10.html",
+      "/posts/proto_paul/1co11.html",
+      "/posts/proto_paul/1co12.html",
+      "/posts/proto_paul/1co13.html",
+      "/posts/proto_paul/1co14.html",
+      "/posts/proto_paul/1co15.html",
+      "/posts/proto_paul/1co16.html",
+      "/posts/proto_paul/1the01.html",
+      "/posts/proto_paul/1the02.html",
+      "/posts/proto_paul/1the03.html",
+      "/posts/proto_paul/1the04.html",
+      "/posts/proto_paul/1the05.html",
+      "/posts/proto_paul/2co01.html",
+      "/posts/proto_paul/2co02.html",
+      "/posts/proto_paul/2co03.html",
+      "/posts/proto_paul/2co04.html",
+      "/posts/proto_paul/2co05.html",
+      "/posts/proto_paul/2co06.html",
+      "/posts/proto_paul/2co07.html",
+      "/posts/proto_paul/2co08.html",
+      "/posts/proto_paul/2co09.html",
+      "/posts/proto_paul/2co10.html",
+      "/posts/proto_paul/2co11.html",
+      "/posts/proto_paul/2co12.html",
+      "/posts/proto_paul/2co13.html",
+      "/posts/proto_paul/gal01.html",
+      "/posts/proto_paul/gal02.html",
+      "/posts/proto_paul/gal03.html",
+      "/posts/proto_paul/gal04.html",
+      "/posts/proto_paul/gal05.html",
+      "/posts/proto_paul/gal06.html",
+      "/posts/proto_paul/phm01.html",
+      "/posts/proto_paul/phil01.html",
+      "/posts/proto_paul/phil02.html",
+      "/posts/proto_paul/phil03.html",
+      "/posts/proto_paul/phil04.html",
+      "/posts/proto_paul/rom01.html",
+      "/posts/proto_paul/rom02.html",
+      "/posts/proto_paul/rom03.html",
+      "/posts/proto_paul/rom04.html",
+      "/posts/proto_paul/rom05.html",
+      "/posts/proto_paul/rom06.html",
+      "/posts/proto_paul/rom07.html",
+      "/posts/proto_paul/rom08.html",
+      "/posts/proto_paul/rom09.html",
+      "/posts/proto_paul/rom10.html",
+      "/posts/proto_paul/rom11.html",
+      "/posts/proto_paul/rom12.html",
+      "/posts/proto_paul/rom13.html",
+      "/posts/proto_paul/rom14.html",
+      "/posts/proto_paul/rom15.html",
+      "/posts/proto_paul/rom16.html"
     ]
   },
   {
-    "listing": "/posts/rom05.html",
+    "listing": "/posts/proto_paul/2co04.html",
     "items": []
   },
   {
-    "listing": "/posts/gal03.html",
+    "listing": "/posts/proto_paul/1co03.html",
     "items": []
   },
   {
-    "listing": "/posts/gal01.html",
+    "listing": "/posts/proto_paul/rom05.html",
     "items": []
   },
   {
-    "listing": "/posts/rom14.html",
+    "listing": "/posts/proto_paul/phil01.html",
     "items": []
   },
   {
-    "listing": "/posts/rom06.html",
+    "listing": "/posts/proto_paul/gal03.html",
     "items": []
   },
   {
-    "listing": "/posts/rom08.html",
+    "listing": "/posts/proto_paul/gal01.html",
     "items": []
   },
   {
-    "listing": "/posts/rom01.html",
+    "listing": "/posts/proto_paul/rom14.html",
     "items": []
   },
   {
-    "listing": "/posts/rom10.html",
+    "listing": "/posts/proto_paul/rom06.html",
     "items": []
   },
   {
-    "listing": "/posts/rom16.html",
+    "listing": "/posts/proto_paul/1the03.html",
     "items": []
   },
   {
-    "listing": "/posts/gal06.html",
+    "listing": "/posts/proto_paul/rom08.html",
     "items": []
   },
   {
-    "listing": "/posts/gal04.html",
+    "listing": "/posts/proto_paul/2co06.html",
     "items": []
   },
   {
-    "listing": "/posts/rom02.html",
+    "listing": "/posts/proto_paul/1co02.html",
     "items": []
   },
   {
-    "listing": "/posts/rom09.html",
+    "listing": "/posts/proto_paul/1co01.html",
     "items": []
   },
   {
-    "listing": "/posts/rom11.html",
+    "listing": "/posts/proto_paul/1co10.html",
     "items": []
   },
   {
-    "listing": "/posts/gal05.html",
+    "listing": "/posts/proto_paul/2co02.html",
     "items": []
   },
   {
-    "listing": "/posts/rom15.html",
+    "listing": "/posts/proto_paul/rom01.html",
     "items": []
   },
   {
-    "listing": "/posts/rom12.html",
+    "listing": "/posts/proto_paul/2co08.html",
     "items": []
   },
   {
-    "listing": "/posts/gal02.html",
+    "listing": "/posts/proto_paul/1the05.html",
     "items": []
   },
   {
-    "listing": "/posts/rom03.html",
+    "listing": "/posts/proto_paul/rom10.html",
     "items": []
   },
   {
-    "listing": "/posts/rom13.html",
+    "listing": "/posts/proto_paul/1co07.html",
     "items": []
   },
   {
-    "listing": "/posts/rom07.html",
+    "listing": "/posts/proto_paul/rom16.html",
     "items": []
   },
   {
-    "listing": "/posts/rom04.html",
+    "listing": "/posts/proto_paul/2co12.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co10.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co05.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co09.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co11.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/gal06.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/phil02.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co13.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1the02.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co14.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co06.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co01.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co12.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/gal04.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom02.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1the01.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/phil04.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/phil03.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom09.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co16.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co08.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom11.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/gal05.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co13.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom15.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co11.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom12.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co09.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/gal02.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom03.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/phm01.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co03.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1the04.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co05.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co15.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/1co04.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom13.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/2co07.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom07.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/proto_paul/rom04.html",
     "items": []
   }
 ]

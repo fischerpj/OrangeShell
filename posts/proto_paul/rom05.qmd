@@ -1,0 +1,16 @@
+---
+title: romains_05
+author: 'paul'
+date: "`r format(lubridate::as_date(Sys.time())+5 , '%d %B, %Y')`"
+categories: [SG21]
+tags: [romains_]
+params:
+  refs: rom5
+  refs_after: Rom1:1
+  version: SG21
+---
+
+```{r, BCV_code, echo=FALSE}
+XMINPI::bcv_list_(params$refs, params$version)
+```
+

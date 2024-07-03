@@ -1,0 +1,16 @@
+---
+title: 1corinthiens15
+author: 'paul'
+date: "`r format(lubridate::as_date(Sys.time())+3 , '%d %B, %Y')`"
+categories: [SG21]
+tags: [1corinthiens]
+params:
+  refs: 1co15
+  refs_after: Rom1:1
+  version: SG21
+---
+
+```{r, BCV_code, echo=FALSE}
+XMINPI::bcv_list_(params$refs, params$version)
+```
+

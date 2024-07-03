@@ -21,12 +21,16 @@ format:
 
 listing:
   contents: 
-    - posts/gal*.qmd
-    - posts/rom?.qmd
-    - posts/rom??.qmd
+    - posts/proto_paul/1the*.qmd
+    - posts/proto_paul/gal*.qmd
+    - posts/proto_paul/phm*.qmd
+    - posts/proto_paul/1co*.qmd
+    - posts/proto_paul/2co*.qmd
+    - posts/proto_paul/rom*.qmd
+    - posts/proto_paul/phil*.qmd
 
   sort:
-    - "title"
     - "date"
+    - "title"
 
 editor: visual
