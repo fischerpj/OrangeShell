@@ -20,7 +20,11 @@ format:
     css: styles.css
 
 listing:
-  contents: posts/*.qmd
+  contents: 
+    - posts/gal*.qmd
+    - posts/rom?.qmd
+    - posts/rom??.qmd
+
   sort:
     - "title"
     - "date"

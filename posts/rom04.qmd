@@ -1,11 +1,11 @@
 ---
-title: romains_13
+title: romains_04
 author: 'paul'
 date: '2024-06-24'
 categories: [SG21]
 tags: [romains_]
 params:
-  refs: rom13
+  refs: rom4
   refs_after: Rom1:1
   version: SG21
 ---

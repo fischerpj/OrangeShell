@@ -1,11 +1,11 @@
 ---
-title: romains_1
+title: galates_02
 author: 'paul'
 date: '2024-06-24'
 categories: [SG21]
-tags: [rom]
+tags: [galates_]
 params:
-  refs: rom1
+  refs: gal2
   refs_after: Rom1:1
   version: SG21
 ---
