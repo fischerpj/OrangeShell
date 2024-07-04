@@ -29,6 +29,13 @@ listing:
     - posts/proto_paul/2co*.qmd
     - posts/proto_paul/rom*.qmd
     - posts/proto_paul/phil*.qmd
+    - posts/deutero_paul/2the*.qmd
+    - posts/deutero_paul/col*.qmd
+    - posts/deutero_paul/eph*.qmd
+    - posts/trito_paul/1tim*.qmd
+    - posts/trito_paul/2tim*.qmd
+    - posts/trito_paul/tit*.qmd
+
 
   sort: "false"
 

@@ -1,12 +1,12 @@
 ---
-title: colossiens_01
+title: tite_02
 author: 'paul'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
-tags: [colossiens_]
+tags: [tite_]
 params:
-  refs: col1
+  refs: tit2
   refs_after: Rom1:1
   version: SG21
 ---
@@ -14,3 +14,4 @@ params:
 ```{r, BCV_code, echo=FALSE}
 XMINPI::bcv_list_(params$refs, params$version)
 ```
+

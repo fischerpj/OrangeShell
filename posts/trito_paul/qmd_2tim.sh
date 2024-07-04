@@ -1,8 +1,8 @@
 #!/bin/bash
-title_prefix="2thessaloniciens_"
-book="2the"
+title_prefix="2timothée"
+book="2tim"
+end=4
 start=1
-end=3
 chap=1
 leading_zero="0"
 regex='^[0-9]$'
