@@ -1,10 +1,10 @@
 ---
-title: 1corinthiens06
+title: 1corinthiens_06
 author: 'paul'
-date: "`r lubridate::as_date(Sys.time())-3`"
+date: "`r Sys.time()-3`"
 date-format: medium
 categories: [SG21]
-tags: [1corinthiens]
+tags: [1corinthiens_]
 params:
   refs: 1co6
   refs_after: Rom1:1

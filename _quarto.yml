@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "paul_romans"
+  title: "paul_letters"
   navbar:
     left:
       - href: index.qmd
@@ -29,8 +29,6 @@ listing:
     - posts/proto_paul/rom*.qmd
     - posts/proto_paul/phil*.qmd
 
-  sort:
-    - "date"
-    - "title"
+  sort: "false"
 
 editor: visual

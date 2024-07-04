@@ -1,5 +1,5 @@
 #!/bin/bash
-title_prefix="2corinthiens"
+title_prefix="2corinthiens_"
 book="2co"
 start=1
 end=13
@@ -22,7 +22,7 @@ cat > $filename <<EOF
 ---
 title: $title_prefix$prefixed_ndx
 author: 'paul'
-date: "\`r lubridate::as_date(Sys.time())-$offset\`"
+date: "\`r Sys.time()-$offset\`"
 date-format: medium
 categories: [SG21]
 tags: [$title_prefix]

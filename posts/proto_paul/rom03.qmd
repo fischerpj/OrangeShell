@@ -1,7 +1,7 @@
 ---
 title: romains_03
 author: 'paul'
-date: "`r lubridate::as_date(Sys.time())-5`"
+date: "`r Sys.time()-5`"
 date-format: medium
 categories: [SG21]
 tags: [romains_]

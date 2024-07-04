@@ -1,7 +1,7 @@
 ---
 title: galates_04
 author: 'paul'
-date: "`r lubridate::as_date(Sys.time())-1`"
+date: "`r Sys.time()-1`"
 date-format: medium
 categories: [SG21]
 tags: [galates_]
