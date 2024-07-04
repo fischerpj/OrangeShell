@@ -1,8 +1,8 @@
 ---
 title: romains_02
 author: 'paul'
-date: "`r Sys.time()-5`"
-date-format: medium
+date: now
+date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
 tags: [romains_]
 params:

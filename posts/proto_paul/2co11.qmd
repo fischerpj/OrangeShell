@@ -1,8 +1,8 @@
 ---
 title: 2corinthiens_11
 author: 'paul'
-date: "`r Sys.time()-4`"
-date-format: medium
+date: now
+date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
 tags: [2corinthiens_]
 params:

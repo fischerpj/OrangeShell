@@ -22,8 +22,8 @@ cat > $filename <<EOF
 ---
 title: $title_prefix$prefixed_ndx
 author: 'paul'
-date: "\`r Sys.time()-$offset\`"
-date-format: medium
+date: now
+date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
 tags: [$title_prefix]
 params:

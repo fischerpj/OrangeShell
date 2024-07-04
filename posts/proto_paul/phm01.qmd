@@ -1,8 +1,8 @@
 ---
 title: philemon_01
 author: 'paul'
-date: "`r Sys.time()-2`"
-date-format: medium
+date: now
+date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
 tags: [philemon_]
 params:
