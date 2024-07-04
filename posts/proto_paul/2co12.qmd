@@ -1,7 +1,8 @@
 ---
 title: 2corinthiens12
 author: 'paul'
-date: "`r format(lubridate::as_date(Sys.time())+4 , '%d %B, %Y')`"
+date: "`r lubridate::as_date(Sys.time())-4`"
+date-format: medium
 categories: [SG21]
 tags: [2corinthiens]
 params:

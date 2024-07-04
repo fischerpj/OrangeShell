@@ -1,7 +1,8 @@
 ---
 title: philemon_01
 author: 'paul'
-date: "`r format(lubridate::as_date(Sys.time())+2 , '%d %B, %Y')`"
+date: "`r lubridate::as_date(Sys.time())-2`"
+date-format: medium
 categories: [SG21]
 tags: [philemon_]
 params:

@@ -1,7 +1,8 @@
 ---
 title: romains_04
 author: 'paul'
-date: "`r format(lubridate::as_date(Sys.time())+5 , '%d %B, %Y')`"
+date: "`r lubridate::as_date(Sys.time())-5`"
+date-format: medium
 categories: [SG21]
 tags: [romains_]
 params:

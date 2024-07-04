@@ -22,7 +22,8 @@ cat > $filename <<EOF
 ---
 title: $title_prefix$prefixed_ndx
 author: 'paul'
-date: "\`r format(lubridate::as_date(Sys.time())+$offset , '%d %B, %Y')\`"
+date: "\`r lubridate::as_date(Sys.time())-$offset\`"
+date-format: medium
 categories: [SG21]
 tags: [$title_prefix]
 params:
