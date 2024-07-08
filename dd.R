@@ -1,0 +1,15 @@
+<script src="https://giscus.app/client.js"
+data-repo="Fischerpj/xminotes"
+data-repo-id="R_kgDOMSdMLQ"
+data-category="Announcements"
+data-category-id="DIC_kwDOMSdMLc4CgmMV"
+data-mapping="pathname"
+data-strict="0"
+data-reactions-enabled="1"
+data-emit-metadata="0"
+data-input-position="bottom"
+data-theme="preferred_color_scheme"
+data-lang="fr"
+crossorigin="anonymous"
+async>
+  </script>

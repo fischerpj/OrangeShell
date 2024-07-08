@@ -10,9 +10,6 @@ website:
         text: Home
       - about.qmd
   page-navigation: true
-  comments:
-    giscus:
-      repo: fischerpj/OrangeShell
 
 format:
   html:
@@ -38,6 +35,14 @@ listing:
     - posts/trito_paul/1tim*.qmd
     - posts/trito_paul/2tim*.qmd
     - posts/trito_paul/tit*.qmd
+    - posts/john_nco/jas*.qmd
+    - posts/john_nco/1pet*.qmd
+    - posts/john_nco/2pet*.qmd
+    - posts/john_nco/jud*.qmd
+    - posts/john_nco/heb*.qmd
+    - posts/john_nco/1joh*.qmd
+    - posts/john_nco/2joh*.qmd
+    - posts/john_nco/3joh*.qmd
   sort: "false"
 
 editor: visual
