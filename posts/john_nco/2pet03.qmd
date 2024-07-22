@@ -1,6 +1,6 @@
 ---
 title: 2pierre_03
-author: 'paul'
+author: 'pierre'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]

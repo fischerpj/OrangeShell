@@ -1,6 +1,6 @@
 ---
 title: jacques_03
-author: 'paul'
+author: 'jacques'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]

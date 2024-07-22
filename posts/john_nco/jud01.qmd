@@ -1,6 +1,6 @@
 ---
 title: jude_01
-author: 'paul'
+author: 'jude'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]

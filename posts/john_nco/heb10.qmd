@@ -1,6 +1,6 @@
 ---
 title: hébreux_10
-author: 'paul'
+author: 'anonyme'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]

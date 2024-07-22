@@ -21,7 +21,7 @@ echo $filename
 cat > $filename <<EOF
 ---
 title: $title_prefix$prefixed_ndx
-author: 'paul'
+author: 'jacques'
 date: now
 date-format: "D MMM YY HH:mm.ss"
 categories: [SG21]
