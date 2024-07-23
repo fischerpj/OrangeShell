@@ -4,13 +4,17 @@ project:
 
 website:
   title: "paul_letters"
+  sidebar:
+    style: "docked"
+    search: true
+    contents: auto
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
   page-navigation: true
-
+  
 format:
   html:
     toc: true
