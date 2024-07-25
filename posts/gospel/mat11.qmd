@@ -1,0 +1,17 @@
+---
+title: matthew_11
+author: 'matthew'
+date: now
+date-format: "D MMM YY HH:mm.ss"
+categories: [SG21]
+tags: [matthew_]
+params:
+  refs: mat11
+  refs_after: Rom1:1
+  version: SG21
+---
+
+```{r, BCV_code, echo=FALSE}
+XMINPI::bcv_list_(params$refs, params$version)
+```
+

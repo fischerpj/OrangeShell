@@ -3,11 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "paul_letters"
+  title: "NT_letters"
   sidebar:
     style: "docked"
     search: true
-    contents: auto
+    contents:
+    - section: proto Paul
+      contents: posts/proto_paul
+    - section: deutero Paul
+      contents: posts/deutero_paul
+    - section: trito Paul
+      contents: posts/trito_paul
+    - section: John & Co
+      contents: posts/john_nco
+    - section: Gospel
+      contents: posts/gospel
   navbar:
     left:
       - href: index.qmd
