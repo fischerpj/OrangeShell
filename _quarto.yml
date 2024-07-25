@@ -8,12 +8,11 @@ website:
     style: "docked"
     search: true
     contents:
-    - section: proto Paul
-      contents: posts/proto_paul
-    - section: deutero Paul
-      contents: posts/deutero_paul
-    - section: trito Paul
-      contents: posts/trito_paul
+    - section: Paul
+      contents: 
+        - posts/proto_paul
+        - posts/deutero_paul
+        - posts/trito_paul
     - section: John & Co
       contents: posts/john_nco
     - section: Gospel
