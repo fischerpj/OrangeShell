@@ -1,7 +1,10 @@
 ---
-title: "."
+title: "NT chapters"
+listing: 
+  type: default
+  contents: posts
+  categories: true
+  sort: "category"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+These are the NT chapters, folded in **author-categories**.
