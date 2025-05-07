@@ -14,4 +14,3 @@ params:
 ```{r, BCV_code, echo=FALSE}
 XMINPI::bcv_list_(params$refs, params$version)
 ```
-
