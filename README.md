@@ -2,7 +2,7 @@
 
 -   paul_romans is quarto website with Paul letters
 
--   SNAP2519 with git push
+-   SNAP2519 with git push to OrangeShell
 
 echo "\# OrangeShell" \>\> README.md
 
